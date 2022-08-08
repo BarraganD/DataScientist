@@ -19,7 +19,7 @@ There are 1 notebooks of jupyter available here to showcase work related to the 
 
 **Resultados**
 
-Los principales hallazgos del código se pueden encontrar en la publicación disponible aquí https://medium.com/p/6b6060b27990/edit.
+Los principales hallazgos del código se pueden encontrar en la publicación disponible aquí https://medium.com/@diegobarragan041/surely-you-will-have-at-least-one-credit-card-what-is-the-transactional-profile-that-identifies-6b6060b27990
 
 **Licencias, Autores, Agradecimientos**
 
