@@ -19,7 +19,7 @@ There are 1 notebooks of jupyter available here to showcase work related to the 
 
 **Resultados**
 
-Los principales hallazgos del código se pueden encontrar en la publicación disponible aquí .
+Los principales hallazgos del código se pueden encontrar en la publicación disponible aquí https://medium.com/p/6b6060b27990/edit.
 
 **Licencias, Autores, Agradecimientos**
 
